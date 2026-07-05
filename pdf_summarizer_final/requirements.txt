@@ -1,4 +1,5 @@
 ﻿aiohappyeyeballs==2.7.1
+whitenoise>=6.6.0
 gunicorn
 aiohttp==3.14.1
 aiosignal==1.4.0
